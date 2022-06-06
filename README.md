@@ -27,3 +27,11 @@ Steps:
 -	Check to make sure Arduino is connected in the console 
 -	when the anemometer is spun a red dot will print in the top left hand corner as well as the latest data values printed in the console
 -	Interact and enjoy!
+
+
+OPTIONS FOR WITHOUT ARDUINO
+If you do not have Arduino hardware to connect, do not fear!
+The sketch should still run in p5.js without p5.serial or Arduino
+To interact, use “a” and “d” to manipulate particle systems within game modes and the rain
+Use LEFT_KEY and RIGHT_KEY to manipulate the video tiles
+
