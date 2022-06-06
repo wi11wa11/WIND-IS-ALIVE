@@ -9,9 +9,13 @@ P5.serial applet OPEN in background
 Anemometer Arduino code
 Anemometer Arduino circuit
 To run WIND IS ALIVE you need to open the program code in a Chrome browser. This is to allow p5.serial to communicate properly. 
+
 Fullscreen: https://editor.p5js.org/willwall/full/_wwve68ah
+
 Sketch: https://editor.p5js.org/willwall/sketches/_wwve68ah
+
 Github repository: https://github.com/wi11wa11/WIND-IS-ALIVE 
+
 P5.serial: https://github.com/p5-serial/p5.serialport 
 
 Steps:
